@@ -73,7 +73,7 @@ Our goal? **To provide data-backed strategies for increasing revenue, improving 
 
 | File Name  | Description  |
 |------------|-------------|
-| 📌 `Customer Performance Market vs Target.pdf`  | Market-wise sales vs target comparison. |
+| 📌 [Customer Performance Market vs Target.pdf](https://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/Customer%20Performance%20Market%20vs%20Target.pdf)`  | Market-wise sales vs target comparison. |
 | 📌 `Customer Performance Report.pdf`  | Breakdown of sales by customer.  |
 | 📌 `P&L Statement by Fiscal Year.pdf`  | Profit & loss summary across years.  |
 | 📌 `P&L Statement by Market.pdf`  | Market-wise profitability breakdown.  |
