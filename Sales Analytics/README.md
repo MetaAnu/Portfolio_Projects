@@ -74,10 +74,10 @@ Our goal? **To provide data-backed strategies for increasing revenue, improving 
 | File Name  | Description  |
 |------------|-------------|
 | 📌 [Customer Performance Market vs Target.pdf](https://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/Customer%20Performance%20Market%20vs%20Target.pdf)`  | Market-wise sales vs target comparison. |
-| 📌 `Customer Performance Report.pdf`  | Breakdown of sales by customer.  |
-| 📌 `P&L Statement by Fiscal Year.pdf`  | Profit & loss summary across years.  |
-| 📌 `P&L Statement by Market.pdf`  | Market-wise profitability breakdown.  |
-| 📌 `P&L Statement by Month.pdf`  | Monthly revenue & profit trends. |
+| 📌 [Customer Performance Report.pdf](http://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/Customer%20Performance%20Report.pdf) | Breakdown of sales by customer.  |
+| 📌 [P&L Statement by Fiscal Year.pdf](https://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Fiscal%20Year.pdf)  | Profit & loss summary across years.  |
+| 📌 [P&L Statement by Market.pdf](https://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Market.pdf)  | Market-wise profitability breakdown.  |
+| 📌 [P&L Statement by Month.pdf ](https://github.com/MetaAnu/Portfolio_Projects/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Month.pdf) | Monthly revenue & profit trends. |
 
 ---
 
