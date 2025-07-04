@@ -40,10 +40,11 @@
 
 | View | Link |
 |------|------|
-| 📊 Finance View | [Finance View PDF](./Finance%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
-| 📈 Marketing View | [Marketing View PDF](./Marketing%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
-| 💼 Sales View | [Sales View PDF](./Sales%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
-| 🔗 Supply Chain View | [Supply Chain View PDF](./Supply%20Chain%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
+| 📊 Finance View | [Finance View - Business Insights 360 - Atliq Hardware - Power BI.pdf](Finance%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
+| 📈 Marketing View | [Marketing View - Business Insights 360 - Atliq Hardware - Power BI.pdf](Marketing%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
+| 💼 Sales View | [Sales View - Business Insights 360 - Atliq Hardware - Power BI.pdf](Sales%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
+| 🔗 Supply Chain View | [Supply Chain View - Business Insights 360 - Atliq Hardware - Power BI.pdf](Supply%20Chain%20View%20-%20Business%20Insights%20360%20-%20Atliq%20Hardware%20-%20Power%20BI.pdf) |
+
 
 ---
 
