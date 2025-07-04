@@ -5,7 +5,7 @@
 ![Domain](https://img.shields.io/badge/Industry-Consumer%20Hardware-blue)
 ![Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views)
 
-## 🚀 Project Overview
+## 🚀 Project Overview   [Dashboard Link](https://powerbi.microsoft.com/](https://app.powerbi.com/links/XV1PWIDZJh?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=7deb7b8c-ab16-425e-afc9-f8587ca251a8)
 
 **Atliq Hardware** is a global manufacturer and seller of computer hardware. This **Business Insights 360 Dashboard** empowers stakeholders across **Finance, Sales, Marketing, and Supply Chain** with real-time, interactive, and actionable insights.
 
