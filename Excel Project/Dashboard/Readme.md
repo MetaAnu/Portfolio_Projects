@@ -59,6 +59,6 @@ It demonstrates how Excel, when used deeply, can turn raw data into business str
 
 ## 📎 Explore the Project
 
-[[Add your GitHub or Drive Link Here](https://github.com/MetaAnu/Portfolio_Projects/blob/Data-Nerds/Excel%20Project/Dashboard/Ecommerce%20Sales%20Performance%20Dashboard.png)]
+[[Dashboard Link]](https://github.com/MetaAnu/Portfolio_Projects/blob/Data-Nerds/Excel%20Project/Dashboard/Ecommerce%20Sales%20Performance%20Dashboard.png)]
 
 If you'd like the Excel file or a walkthrough of the analysis, feel free to reach out.
